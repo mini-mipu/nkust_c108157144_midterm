@@ -1,6 +1,7 @@
 # flutter_app
 四資工四甲 黃郁翔 c108157144  
-midterm project.  self introduction
+midterm project.  
+self introduction
 
 ## Getting Started
 
